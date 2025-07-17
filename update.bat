@@ -11,7 +11,7 @@ if errorlevel 1 (
 
 REM Prüfen, ob main.py existiert
 if exist main.py (
-    echo main.py gefunden. Wird ausgeführt...
+    echo main.py gefunden. Wird ausgefuehrt...
     python main.py
 ) else (
     echo main.py nicht gefunden.
